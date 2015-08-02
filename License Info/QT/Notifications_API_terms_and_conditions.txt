@@ -1,0 +1,162 @@
+NOTIFICATIONS API TERMS AND CONDITIONS
+
+Please read these Notifications API Terms and Conditions carefully before accessing, downloading or using any part of the Notifications API Developer Package. By accessing, downloading, installing, using or clicking on the "Accept" button while downloading, installing and/or using the Notifications API Developer Package, you agree to these Notifications API Terms and Conditions.
+
+1. Acceptance
+
+These Notifications API Terms and Conditions together with the Nokia Privacy Policy (collectively "Terms") govern your use of the Notifications software, applications, service, interfaces, content, and documentation (collectively "Notifications Service" and/or "Service") and the Terms constitute an agreement between you (either an individual or an entity) and Nokia Corporation including its affiliates and suppliers (collectively "Nokia") defining the rights and responsibilities of you and Nokia with respect to the Service. There may be additional conditions applicable to certain parts of the Service.
+
+You are not allowed to use the Service if you do not agree to the Terms.
+
+2. Eligibility
+
+To use the Service, you must be at least eighteen (18) years of age. You must be legally competent to execute the agreement.
+
+3. Registration and termination
+
+If registeration is required, you agree to provide truthful and complete information when registering for the Service and to keep that information updated. Providing misleading information about your identity is forbidden. Upon registering Your Application to use the Service, you will get an Application specific identifier code(s) in order to use the Service. You are personally responsible for any use of the Service with your identifier code. You agree to take due care in protecting your identifier code against misuse by others and promptly notify Nokia about any misuse.
+
+You may terminate your registration(s) if you no longer wish to use the Service. After termination, you may not access the Service. Nokia may terminate your registration(s) or restrict your access to certain parts of the Service if there is an indication that you have breached the Terms or with a prior notice if you have not signed into the Service with your identifier code in the past three (3) months.
+
+You may terminate the Agreement at any time by permanently uninstalling, deleting, and destroying, at your own costs, any related software, all backup copies, and all related materials provided by Nokia and by ceasing to use the Service. All your rights automatically and immediately terminate without notice from Nokia if you fail to comply with any provision of these Terms. In such an event, you must immediately uninstall, delete, or destroy at your own cost, any related software, all backup copies, and all other related material provided by Nokia as well as stop using the Service.
+
+Nokia may, in its sole discretion, change, improve, maintain and correct the Service (for clarity also Notifications API) from time to time. Nokia may also provide with updates to the Service that are considered as important or critical by Nokia, and in such case you may not continue using the previous version of the Service and the use of the previous version of the Service may be prevented without installation of the update. The Service may not be available during maintenance breaks and other times. Nokia may also decide to discontinue the Service or any part thereof in its sole discretion. In such case you will be provided a prior notification and Nokia may terminate the Agreement accordingly.
+
+Except as set forth in Privacy Policy, Nokia shall not be responsible for any removal or loss of the information, data, notifications or content you have submitted ("Material") to the Service when your registration is terminated. After the Material is removed from the Service by either you or Nokia, traces and copies of the Material may still remain.
+
+4. Amendments and updates to the Terms
+
+Nokia reserves the right to modify or amend the Terms at any time without prior notice. If the Terms are changed in a substantial way, Nokia will provide a separate prior notice advising of such change.
+
+You are responsible for regularly reviewing the Terms. Your continued use of the Service shall constitute your consent to any changes and modifications.
+
+5. Definitions
+
+"Application" means your end-to-end solution comprising of the service and client elements utilizing the Notifications Service.
+
+"Notifications Service" means the service offered by Nokia that enables developers to create Application(s) that can send service-to-client notifications, as made available by Nokia from time to time.
+
+"Notifications API Developer Package" means the Notifications API, documentation and any and all other material made accessible to you by Nokia from time to time that enables you to integrate Application(s) with the Notifications Service and is designated by Nokia as being a part of the Notifications API Developer Package.
+
+"Notifications API" means the application programming interface(s) information made accessible to you by Nokia from time to time that enables you to integrate Application(s) with the Notifications Service.
+
+6. Use of Notifications API Developer Package and Notifications Service
+
+The Notifications API Developer Package is made accessible to you for the purposes of integrating your Application(s) with the Notifications Service and for the limited purposes of evaluating, testing and using the Notifications during the term of this Agreement.
+
+When using the Notifications API Developer Package and/or the Notifications Service, you hereby agree that you will:
+
+(i) clearly communicate to the users of the Application(s) (e.g. in the client UI) that the use of the Application(s) creates data traffic; and
+
+(ii) provide the users of the Application(s) with the easy settings to disable notifications;
+
+(iii) not use the Notifications Service, or any part thereof, in connection with any internal business application the purpose of which is directly related to the operation of your core business and where the users of such application are your employees or contractors (e.g. fleet or asset management and tracking);
+
+(iv) not use the Notifications Service for routing notifications from other notification services;
+
+(v) not remove or obscure any copyright or trademark notices or other similar notices or markings or legends from the Notifications API Developer Package;
+
+(vi) not use Application or any other application or service utilizing the Notifications API to exceed any transaction volume limits (if any) set by Nokia. The amount of the possible transaction volume limit is as set forth in the documentation included in the Notifications API or support websites. Nokia may change the limit from time to time in its sole discretion. Any programmatic methods or other actions intended to circumvent the transaction volume limits shall be considered a material breach of these Terms; or
+
+(vii) not use the Notifications API Developer Package or the Notifications Service in any manner or for any purpose that violates these Terms or any law or regulation, including without limitation, any intellectual property or other proprietary rights, any right of any person, rights of privacy, or rights of personality;
+
+(viii) not grant access to the Notifications Service and/or to your service utilizing Notifications Service for any other than authorized users;
+
+(ix) not use the Notifications Service to develop or operate any Applications that are critical to health or business and/or security of other people and property.
+
+Notwithstanding anything to the contrary contained herein, you may not (a) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the software related to Notifications Service, except and only to the extent permitted by applicable mandatory law; (b) modify or create derivative works of the Notifications Service or Notifications Developer Package; or (c) distribute, communicate to the public, export, re-export, sublicense, rent, loan, lease, disclose, sell, market, commercialise, re-license, host, or otherwise transfer or make available to any third party (including without limitation any affiliates and subcontractors) the Notifications Service and/or Notifications API Developer Package (or any portions thereof).
+
+You also agree (i) to comply with these Terms, applicable laws and good manners; (ii) not to distribute or post spam or provide a spammy experience to Application users, unreasonably large files, chain letters, pyramid schemes, any malicious code, viruses or any other technologies or content that may harm the Notifications Service, other users, servers or network; (iii) not to use the Notifications Service in connection with any unlawful, offensive, abusive, obscene, pornographic, harassing, libelous or otherwise inappropriate Material and comply with Nokia guidelines as may be provided by Nokia from time to time; and (iv) to respect the privacy of others.
+
+You agree to comply with Nokia technical guidelines and other guidelines as Nokia may provide from time to time.
+
+Nokia may audit or monitor the use of the Notifications Service by your Application to ensure compliance with these Terms.
+
+Nothing in these Terms or otherwise prevents Nokia from developing, distributing and/or making use of any application that is directly or indirectly competing with Application.
+
+7. Ownership and Intellectual Property Rights
+
+The Notifications Service and the Notification API Developer Package are protected by copyrights and other intellectual property rights and are subject to international treaties. Nokia retains and reserves all rights, title, and interest in and to the Notifications Service and the Notifications API Developer Package as well as in all Nokia's products, software and other properties provided to you or used by you.
+
+No right or license, express or implied, is granted to any part of the Notifications Service or the Notifications API Developer Package except as expressly set forth above.
+
+8. Fees
+
+Your use of the Service may be or may become subject to charges. Nokia reserves the right to charge for the Service and to change its fees from time to time, at its discretion.
+
+9. Availability
+
+The Notifications Service may not be available in all countries and may be provided only in selected languages. The Notifications Service may be network dependent, contact your network service provider for more information.
+
+10. Support and maintenance
+
+Nokia has no obligation to furnish you with technical or other support unless separately agreed in writing between you and Nokia. In case of such support given by Nokia you understand and agree that the support has been given on "as is" and "as available" basis and Nokia will have no obligations or liabilities related to such support.
+
+11. Feedback
+
+By submitting feedback ("Feedback") to Nokia related to this Service, you acknowledge and agree that (1) Nokia may have similar development ideas to the Feedback; (2) your Feedback does not contain confidential or proprietary information related to your own activities or those of any third party; (3) Nokia is not under any obligation of confidentiality with respect to the Feedback; and (4) you are not entitled to any compensation of any kind from Nokia. You hereby grant Nokia a worldwide non-exclusive, assignable, fully paid, royalty-free, perpetual and irrevocable license to use, exploit, copy, publicly perform, display, distribute, further develop and modify for any purpose such Feedback, and to prepare derivative works thereof, or incorporate such Feedback into other works as well as sublicense products and services resulting from such works.
+
+12. Your services
+
+You may interact with users, including consumers, on or through the Notifications Service. You agree that any such interactions by you do not involve Nokia and are solely between you and the other user(s).
+
+You are responsible for providing support for your Applications and provide your users contact details as you deem fit. For the sake of clarity it is stated that Nokia has no obligation to furnish your users with any technical or other support.
+
+13. Links to Third Party Sites and Services
+
+For your easy accessibility Nokia may include links to sites and services on the Internet that are owned or operated by third parties and that are not part of the Service. Upon following a link to such a third-party site, you shall review and agree to that site's rules of use before using such site or service.
+
+You agree that Nokia has no control over the content of third-party sites and cannot assume any responsibility for services provided or material created or published by such sites. A link to a third-party site does not imply that Nokia endorses the site or the products or services referenced in the site.
+
+You agree that Nokia is neither responsible nor liable for any such links or any third party Internet site.
+
+14. Confidentiality
+
+You agree that, despite any other confidentiality agreements you may have with Nokia, Nokia will not be responsible for keeping confidential any information you provide to Nokia through the use of Services. Nokia or any of its employees do not accept or consider unsolicited ideas, including but not limited to ideas for new advertising campaigns, new promotions, new products or technologies, processes, materials, marketing plans or new product names. If, despite the request not to send us your ideas and materials, you still send them, please understand that Nokia makes no assurances that your ideas and materials will be treated as confidential or proprietary.
+
+15. No warranties
+
+YOU ACKNOWLEDGE THAT THE NOTIFICATIONS SERVICE AND NOTIFICATIONS API DEVELOPER PACKAGE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW NEITHER NOKIA, ITS LICENSORS OR AFFILIATES, NOR THE COPYRIGHT HOLDERS MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, ACCURACY OF DOCUMENTATION AND SUPPORT MATERIAL, OR FITNESS FOR A PARTICULAR PURPOSE OR THAT THE NOTIFICATION API DEVELOPER PACKAGE OR THE NOTIFICATIONS SERVICE WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS, OR OTHER RIGHTS. THERE IS NO WARRANTY BY NOKIA OR BY ANY OTHER PARTY THAT THE FUNCTIONS CONTAINED IN NOTIFICATIONS API DEVELOPER PACKAGE OR THE NOTIFICATIONS SERVICE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF NOTIFICATIONS API DEVELOPER PACKAGER OR THE NOTIFICATIONS SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE SELECTION OF THE NOTIFICATIONS SERVICE AND THE NOTIFICATION API DEVELOPER PACKAGE TO ACHIEVE YOUR INTENDED RESULTS AND FOR THE INSTALLATION, USE, AND RESULTS OBTAINED FROM IT.
+
+16. Indemnity
+
+You agree to defend and indemnify Nokia from and against all third party claims and all liabilities, assessments, losses, costs or damages resulting from or arising out of (i) your breach of these Terms, (ii) your infringement or violation of any intellectual property, other rights or privacy of a third party, and (iii) misuse of the Notifications Service or Notifications API Developer Package by a third party where such misuse was made available by your failure to take reasonable measures to protect your username and password against misuse.
+
+17. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NOKIA, ITS EMPLOYEES OR LICENSORS OR AFFILIATES BE LIABLE FOR ANY LOST PROFITS, REVENUE, SALES, DATA, OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, PROPERTY DAMAGE, PERSONAL INJURY, INTERRUPTION OF BUSINESS, LOSS OF BUSINESS INFORMATION, OR FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, ECONOMIC, COVER, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT, TORT, NEGLIGENCE, OR OTHER THEORY OF LIABILITY ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE OR THE SERVICE, EVEN IF NOKIA OR ITS LICENSORS OR AFFILIATES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME COUNTRIES/STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF LIABILITY, BUT MAY ALLOW LIABILITY TO BE LIMITED, IN SUCH CASES, NOKIA, ITS EMPLOYEES OR LICENSORS OR AFFILIATES' LIABILITY SHALL BE LIMITED TO U.S. $50. Nothing contained in this Agreement shall prejudice the statutory rights of any party dealing as a consumer. Nothing contained in this Agreement limits Nokia's liability to you in the event of death or personal injury resulting from Nokia's negligence. Nokia is acting on behalf of its employees and licensors or affiliates for the purpose of disclaiming, excluding, and/or restricting obligations, warranties, and liability as provided in this Agreement, but in no other respects and for no other purpose.
+
+18. Export control
+
+The Notifications Service and Notifications API Developer Package, including technical data, includes cryptographic software subject to export controls under the U.S. Export Administration Regulations ("EAR") and may be subject to import or export controls in other countries. The EAR prohibits the use of the Notifications Service and the Notifications API Developer Package and technical data by a Government End User, as defined hereafter, without a license from the U.S. government. A Government End User is defined in Part 772 of the EAR as "any foreign central, regional, or local government department, agency, or other entity performing governmental functions; including governmental research institutions, governmental corporations, or their separate business units (as defined in part 772 of the EAR) which are engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List, and international governmental organizations. This term does not include: utilities (telecommunications companies and Internet service providers; banks and financial institutions; transportation; broadcast or entertainment; educational organizations; civil health and medical organizations; retail or wholesale firms; and manufacturing or industrial entities not engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List.)" You agree to strictly comply with all applicable import and export regulations and acknowledge that you have the responsibility to obtain licenses to export, re-export, transfer, or import the Notifications Service and the Notifications API Developer Package. You further represent that you are not a Government End User as defined above, and you will not transfer the Notifications Service and the Notifications API Developer Package to any Government End User without a license.
+
+19. Miscellaneous
+
+19.1 Notices
+
+All notices of the Notifications Services and Notifications API Developer Package should be delivered to:
+
+Nokia Corporation
+P.O. Box 100
+FIN-00045 Nokia Group
+Finland
+
+19.2 Assignment
+
+Neither party shall be entitled to assign or transfer all or any of its rights, benefits and obligations under these Terms without the prior written consent of the other party, except Nokia in case of assignment to its affiliates.
+
+19.3 Severability
+
+If any part of these Terms is found void and unenforceable, it will not affect the validity of the balance of the agreement, which shall remain valid and enforceable according to its terms.
+
+19.4 Privacy
+
+The Privacy Policy and any additional privacy supplements govern the use of your personal data.
+
+19.5 Governing law and dispute resolution
+
+The agreement is governed by the laws of Finland. All disputes arising from or relating to these Terms shall be settled by a single arbitrator appointed by the Central Chamber of Commerce of Finland. The arbitration procedure shall take place in Helsinki, Finland in the English language.
+
+19.6 Entire agreement
+
+This is the entire agreement between Nokia and you relating to the Notifications Service and Notifications API Developer Package, and it supersedes any prior representations, discussions, undertakings, end-user agreements, communications, or advertising relating to the Notifications Service and Notifications API Developer Package.

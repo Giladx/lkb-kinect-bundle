@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>isotipoLudique.png</file>
+        <file>isotipo.png</file>
+    </qresource>
+</RCC>
